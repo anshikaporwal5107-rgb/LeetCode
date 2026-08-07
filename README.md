@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
