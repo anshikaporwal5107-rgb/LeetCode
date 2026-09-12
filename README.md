@@ -18,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0704-binary-search) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Search
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0704-binary-search) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Tree
 |  |
 | ------- |
@@ -46,4 +48,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0147-insertion-sort-list) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
