@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0704-binary-search) |
+| [1732-find-the-highest-altitude](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Search
 |  |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
