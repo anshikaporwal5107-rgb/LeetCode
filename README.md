@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2652-sum-multiples](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/2652-sum-multiples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3870-count-commas-in-range](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/3870-count-commas-in-range) |
 ## String
