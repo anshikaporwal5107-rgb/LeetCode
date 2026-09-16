@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0125-valid-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/1732-find-the-highest-altitude) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
