@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0147-insertion-sort-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
@@ -66,4 +68,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0125-valid-palindrome) |
+| [0977-squares-of-a-sorted-array](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
