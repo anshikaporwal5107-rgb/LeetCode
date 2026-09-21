@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0189-rotate-array) |
 | [2652-sum-multiples](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/2652-sum-multiples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3870-count-commas-in-range](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/3870-count-commas-in-range) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -68,5 +70,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
