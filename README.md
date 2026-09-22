@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0704-binary-search) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0268-missing-number](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -84,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0268-missing-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
