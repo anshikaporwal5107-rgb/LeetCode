@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0147-insertion-sort-list) |
+| [0876-middle-of-the-linked-list](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0876-middle-of-the-linked-list](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
