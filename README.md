@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0147-insertion-sort-list](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0876-middle-of-the-linked-list) |
