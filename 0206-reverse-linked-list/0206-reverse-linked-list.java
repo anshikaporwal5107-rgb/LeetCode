@@ -1,24 +1,12 @@
 class Solution {
     public ListNode reverseList(ListNode head) {
+        ListNode prev = null;
+        ListNode curr = head;
+         while ( curr!=null) {
+           ListNode next = curr.next;
+           curr.next=prev;
+           prev=curr;
+           curr=next;}
+          return prev;}}
+   
 
-        
-        ArrayList<Integer> arr = new ArrayList<>();
-
-        ListNode temp = head;
-
-        while (temp != null) {
-            arr.add(temp.val);
-            temp = temp.next;
-        }
-
-      
-        temp = head;
-
-        for (int i = arr.size() - 1; i >= 0; i--) {
-            temp.val = arr.get(i);
-            temp = temp.next;
-        }
-
-        return head;
-    }
-}
