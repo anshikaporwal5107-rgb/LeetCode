@@ -16,25 +16,21 @@ class Solution {
          ArrayList <Integer>even = new ArrayList<>();
          ListNode temp =  head;
          int position = 1;
-         while(temp!=null)
-         {
+         while(temp!=null){
             if(position %2==1)
             odd.add(temp.val);
             else
             even.add(temp.val);
             temp=temp.next;
-            position++;
-         }
+            position++;}
          odd.addAll(even);
          ListNode dummy = new ListNode(0);
          ListNode curr=dummy;
          for(int value : odd){
             curr.next = new ListNode(value);
-            curr = curr.next;
-         }
-         return dummy.next;
+            curr = curr.next;}
+         return dummy.next;}}
 
         
         
-    }
-}
+    
