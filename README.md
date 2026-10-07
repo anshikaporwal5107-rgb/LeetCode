@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0147-insertion-sort-list](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0189-rotate-array) |
