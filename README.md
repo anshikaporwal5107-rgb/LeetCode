@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0704-binary-search](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0202-happy-number) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/anshikaporwal5107-rgb/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
